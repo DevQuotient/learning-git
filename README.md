@@ -1,4 +1,4 @@
-## Learning-git
+## Git and Github Course
 
 ## This repo was used to learn git from 3bdou
 
